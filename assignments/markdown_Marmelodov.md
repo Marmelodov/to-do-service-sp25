@@ -5,6 +5,7 @@ Markdown is a lightweight markup language used to perform simple text formatting
 ![Markdown coat of arms][coatofarms]
 
 ## Pros of Markdown
+
 * **Simple**: It's easy to learn and quick to use.
 * **Readable**: Raw Markdown is easy to interpret. 
 * **Compatible**: Files are plain text, so they can be opened and edited on almost any device or software without losing formatting.
@@ -33,6 +34,9 @@ Surround text with the following characters to apply basic text styles.
 | Bold | \*\*double asterisks\** | **double asterisks** |
 | Bold and Italics | \*\*\*triple asterisks\*\*\*  | ***triple asterisks***    |
 | Strikethrough | \~\~double tildes\~\~  | ~~double tildes~~  |
+
+
+You can add `***` to the start of the line and get a horizontal rule such as this one.
 
 ***
 ### Lists: Numbered, Unnumbered, and Nested
