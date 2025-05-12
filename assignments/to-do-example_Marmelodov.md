@@ -27,7 +27,7 @@ Create a user resource.
 
 ## Postman example
 
-Create a task resource
+Retrieve a user resource.
 
 ### Request
 
